@@ -1,4 +1,4 @@
-class Account:
+class Accounts:
     """A class to represent a bank account with balance and interest rate management."""
 
     def __init__(self, balance=0.0, interest=0.0):
